@@ -1,0 +1,1 @@
+java -Drepository_url="svn://52.69.229.71/myrepo/trunk" -Dpj_root="/myrepo/trunk/moj" -Drevision=8 -Dlocal_root="/Users/shearer/Documents/sdbx/SubversionTest/EXPORT_DIR" -classpath "./svntool-1.0.jar:./lib/*"  moj.tool.svnkit.App
